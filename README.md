@@ -1,3 +1,3 @@
 # gitutorial
-Starting with git
+API Testing assignment
 this is new text
